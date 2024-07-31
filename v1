@@ -1,0 +1,36 @@
+{
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"https://play.google.com/store/apps/details?id=",
+         "vpn_show":"true",
+         "vnid":"gclid,fbclid,google",
+         "Adbuttoncolor":"#6556D9",
+         "ad_type":"AdMOB",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"aa/21775744923/example/app-open",
+         "admob_BgOpenads":"aa/21775744923/example/app-open",
+         "admob_inter":"aa/21775744923/example/interstitial",
+         "admob_inter1":"aa/21775744923/example/interstitial",
+         "admob_back_inter":"aa/21775744923/example/interstitial",
+         "admob_back_inter1":"aa/21775744923/example/interstitial",
+         "admob_banner":"aa/6499/example/banner",
+         "admob_native":"aa/6499/example/native",
+         "admob_native_banner":"aa/6499/example/native",
+         "admobbannerNativerecyclerview":"",
+         "qureka_link":"https://play536.atmequiz.com/",
+         "MGL_link":"https://sites.google.com/view/dkapps/home",
+         "PredictionChamp_link":"https://409.go.predchamp.com",
+         "admobrewardedads":"",
+         "firstscreen":"true",
+         "secondscreen":"true",
+         "facebook_app_id": "1234",
+         "facebook_client_token": "1234",
+         "mainactivity":"false",
+         "ExtraScreenOnoff":"false",
+         "isSplash":"false"
+      }
+   ]
+}

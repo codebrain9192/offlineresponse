@@ -28,8 +28,8 @@
          "secondscreen":"true",
          "facebook_app_id": "1187168412608504",
          "facebook_client_token": "961c6f232ce2282dfc81386d754bbf31",
-         "mainactivity":"false",
-         "ExtraScreenOnoff":"false",
+         "mainactivity":"true",
+         "ExtraScreenOnoff":"true",
          "isSplash":"false"
       }
    ]

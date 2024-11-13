@@ -1,0 +1,36 @@
+{
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"https://play.google.com/store/apps/details?id=com.emicalculator.fianancetool.trackmoney.currencyconverter",
+         "vpn_show":"true",
+         "vnid":"google1,gclid",
+         "Adbuttoncolor":"#F3B814",
+         "ad_type":"AdMOB",
+         "ad_status":"off",
+         "admob_aap_id":"",
+         "admob_openad":"/21775744923/example/",
+         "admob_BgOpenads":"a/21775744923/example/",
+         "admob_inter":"/21775744923/example/",
+         "admob_inter1":"/21775744923/example/",
+         "admob_back_inter":"/21775744923/example/",
+         "admob_back_inter1":"/21775744923/example/",
+         "admob_banner":"/21775744923/example/",
+         "admob_native":"/21775744923/example/",
+         "admob_native_banner":"/21775744923/example/",
+         "admobbannerNativerecyclerview":"",
+         "qureka_link":"https://play20.kasetto.com/",
+         "MGL_link":"https://sites.google.com/view/loanappprivacypolicy/home",
+         "PredictionChamp_link":"https://409.go.predchamp.com",
+         "admobrewardedads":"",
+         "firstscreen":"true",
+         "secondscreen":"true",
+         "facebook_app_id": "1234",
+         "facebook_client_token": "5678",
+         "mainactivity":"true",
+         "ExtraScreenOnoff":"false",
+         "isSplash":"false"
+      }
+   ]
+}

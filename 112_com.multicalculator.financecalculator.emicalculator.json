@@ -1,12 +1,12 @@
 {
   "package": {
-    "package": "com.manage.emi.calculator",
+    "package": "com.multicalculator.financecalculator.emicalculator",
     "is_live": "true",
     "maintenance": 0,
     "ads_click": 0,
     "back_click": 0,
     "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-    "admob_banner_id": "/21952429235,23005251852/InfinityInfotech3_com.cashloan.emicalculator.manageemicalc_Banner",
+    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
     "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
     "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
     "admob_native_two": "ca-app-pub-3940256099942544/2247696110",

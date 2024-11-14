@@ -33,7 +33,7 @@
     "firstscreen": true,
     "secondscreen": true,
     "onesignal_id": "c7c2a031-ee76-45e8-aa70-1bbba3bb4abf",
-    "ad_status": true,
+    "ad_status": false,
     "facebook_app_id": "1234",
     "facebook_client_token": "5678"
   },
